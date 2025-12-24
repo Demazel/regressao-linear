@@ -26,7 +26,9 @@ Este tipo de abordagem é amplamente utilizado em:
 ## 🗂 Estrutura do Projeto
 
 ├── dados.csv # Base de dados utilizada na análise
+
 ├── main.py # Script principal de análise e visualização
+
 └── README.md # Documentação do projeto
 
 ---
