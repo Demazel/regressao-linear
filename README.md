@@ -51,7 +51,6 @@ Os dados são utilizados para **treinar o modelo de IA**, permitindo que ele apr
 ## ⚙️ Tecnologias e Bibliotecas Utilizadas
 - **Python**
 - **Pandas** – Leitura e preparação dos dados
-- **NumPy** – Operações matemáticas
 - **Scikit-learn** – Implementação do modelo de Regressão Linear (IA)
 - **Matplotlib** – Visualização dos dados e da linha de regressão
 
@@ -90,7 +89,7 @@ python main.py
 Este projeto faz parte do meu portfólio como Analista de Dados, demonstrando competências em:
 
 Aplicação de Inteligência Artificial em problemas reais
-Machine Learning supervisionado
-Regressão Linear
-Análise preditiva
-Visualização e interpretação de modelos
+- Machine Learning supervisionado
+- Regressão Linear
+- Análise preditiva
+- Visualização e interpretação de modelos
